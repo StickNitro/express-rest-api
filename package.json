@@ -1,0 +1,35 @@
+{
+  "name": "express-rest-api",
+  "version": "1.0.0",
+  "description": "A Node.JS Express.JS REST API",
+  "main": "bin/app.js",
+  "scripts": {
+    "start": "tsc && nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://stevensn99@github.com/StickNitro/express-rest-api.git"
+  },
+  "keywords": [],
+  "author": "Neil Stevens <stevensn99@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/StickNitro/express-rest-api/issues"
+  },
+  "homepage": "https://github.com/StickNitro/express-rest-api#readme",
+  "devDependencies": {
+    "@types/express": "^4.0.35",
+    "@types/node": "^7.0.12",
+    "@types/typescript": "^2.0.0",
+    "nodemon": "^1.11.0",
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "@types/body-parser": "^1.16.3",
+    "@types/log4js": "0.0.32",
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "express-cluster": "0.0.4",
+    "log4js": "^1.1.1"
+  }
+}
