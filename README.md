@@ -74,7 +74,7 @@ Note: Controller files **MUST** contain the word ```Controller``` in its name, i
 
 ## Contributing Guide
 
-See [CONTRIBUTING.md](https://raw.githubusercontent.com/StickNitro/express-rest-api/master/CONTRIBUTING.md)
+See [CONTRIBUTING.md](https://github.com/StickNitro/express-rest-api/blob/master/CONTRIBUTING.md)
 
 ## License
 
