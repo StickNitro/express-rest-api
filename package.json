@@ -5,7 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon .",
-    "start:ns": "NODE_ENV=nstevens nodemon ."
+    "lint": "jshint **.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/StickNitro/express-rest-api#readme",
   "devDependencies": {
+    "jshint": "^2.9.4",
     "nodemon": "^1.11.0"
   },
   "dependencies": {
