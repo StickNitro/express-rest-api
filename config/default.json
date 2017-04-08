@@ -2,6 +2,10 @@
     "server": {
         "scheme": "http",
         "hostname": "localhost",
-        "port": 4000
+        "port": 4000,
+        "certificate": {
+            "pfx": null,
+            "passphrase": null
+        }
     }
 }

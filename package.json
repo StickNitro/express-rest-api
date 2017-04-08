@@ -4,7 +4,8 @@
   "description": "A Node.JS Express.JS REST API",
   "main": "app.js",
   "scripts": {
-    "start": "nodemon ."
+    "start": "nodemon .",
+    "start:ns": "NODE_ENV=nstevens nodemon ."
   },
   "repository": {
     "type": "git",
