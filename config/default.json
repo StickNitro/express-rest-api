@@ -1,0 +1,7 @@
+{
+    "server": {
+        "scheme": "http",
+        "hostname": "localhost",
+        "port": 4000
+    }
+}
